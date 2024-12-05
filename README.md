@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Praveenkr398
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently javascript.
-- 💞️ I’m looking to collaborate on startup project.
-- 📫 How to reach me by linkedin
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to work with startup project.
+- 📫 How to reach me: by linkedin
 - 😄 thx
 
 <!---
