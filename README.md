@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveenkr398
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to work with startup project.
 - 📫 How to reach me: by linkedin
 - 😄 thx
