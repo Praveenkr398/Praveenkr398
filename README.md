@@ -17,13 +17,14 @@
 
 ---
 
-### 📊 GitHub Stats (Animated)
+### 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
   <!-- GitHub Stats with animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=true" width="auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=true" width="32%" />
   <!-- Top Languages with animation -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=true" width="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=true" width="32%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="32%" />
 </div>
 
 ---
@@ -44,20 +45,5 @@
 </p>
 <p align="center">
 🎶 **I code better when listening to music!**  
-</p>
-
-## 📊 **Skill Proficiency**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="49%" />
-</p>
-
-### 🚀 **Skill Progress (Graph)**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical" width="49%" />
-</p>
-
-### 📈 **Skill Graph (Custom SVG)**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Praveenkr398/github-stats/master/generated/skills.svg" alt="Skill Graph" />
 </p>
 
