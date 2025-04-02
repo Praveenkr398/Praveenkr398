@@ -17,11 +17,9 @@
 
 ---
 
-## 🚀 **Tech Stack Overview**  
-### 🎨 **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,github,git,vscode,figma,router" alt="Tech Stack" />
-</p>
+## 🚀 **Tech Stack Overview**
+
+
 
 
 ### 📊 GitHub Stats
@@ -35,6 +33,17 @@
 
 </div>
 
+
+
+
+### 🎨 **Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,github,git,vscode,figma,router" alt="Tech Stack" />
+</p>
+
+
+
+
 ## 📢 **Let's Connect**  
 <p align="center">
   <a href="mailto:prajatech355@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -44,6 +53,7 @@
 </p>
 
 ---
+
 
 ## 🎵 **Fun Fact**
 <p align="center">
