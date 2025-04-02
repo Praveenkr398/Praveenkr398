@@ -1,9 +1,11 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
 
+
+<p align="center">
 ---
 
 <h1 align="center">
-  🚀 Hi, I'm Praveen Kumar Pandit 👋
+  👋 Hi, I'm Praveen Kumar Pandit 
   
   <a href="https://ipraveenkr398.netlify.app/projects" target="_blank"> 
    <img src="https://img.icons8.com/fluency/48/000000/link.png" alt="Portfolio Link"> 
@@ -54,5 +56,6 @@
 </p>
 <p align="center">
 🎶 **I code better when listening to music!**  
+</p>
 </p>
 
