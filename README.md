@@ -1,66 +1,56 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
 
-## 👋 Hey there! I'm Praveen Kumar Pandit  
+---
+<h1 align="center">🚀 Hi, I'm Praveen Kumar Pandit 👋</h1>
 
----  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Designer;Passionate+About+Clean+Code+%26+Design!" />
+</p>
 
-### 🚀 About Me  
-💡 Front-End Developer | UI/UX Enthusiast | JavaScript & React.js Lover  
-🌍 Passionate about creating seamless web experiences  
-📚 Currently exploring advanced React, Redux, and Next.js  
-🤖 Experimenting with AI-driven automation tools  
+---
 
----  
+## 🌟 **About Me**
+🎨 **Front-End Developer | UI/UX Enthusiast**  
+⚡ Passionate about **React.js, Redux, and JavaScript**  
+🔍 Exploring **AI-based Web Applications**  
+💻 Building **beautiful & interactive UI**  
 
-### 🛠 Tech Stack Overview  
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="auto" height="60"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="auto" height="60"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="auto" height="60"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="auto" height="60"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" width="auto" height="60"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="auto" height="60"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="auto" height="60"/>
-</div>
+---
 
----  
+## 🚀 **Tech Stack Overview**  
+### 🎨 **Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,github,git,vscode,figma,router" alt="Tech Stack" />
+</p>
 
-### 📂 Featured Projects  
+### 🔧 **Tools & Libraries**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=webpack,eslint,styledcomponents,postman,firebase,express,nodejs" alt="Tools & Libraries" />
+</p>
 
-🚀 **[PhotoPiox - Photo Collection Website](https://praveenkr398.github.io/PhotoPioX_PhotoCollection_Website/)**  
-📌 Static image display with hero & gallery sections  
-📌 Categorized gallery with smooth UI  
-📌 Built with HTML, CSS, JavaScript  
-🔗 **[GitHub Repo](https://github.com/Praveenkr398/PhotoPioX_PhotoCollection_Website)**  
+---
 
-🎯 **Random Password Generator**  
-📌 Generates secure random passwords  
-📌 Fully responsive & customizable  
-📌 Built with HTML, CSS, JavaScript  
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="49%" />
+</p>
 
-📝 **Quiz App**  
-📌 Fetches dynamic quizzes from OpenTDB API  
-📌 Customizable quiz categories & difficulty levels  
-📌 JavaScript, API Integration, Responsive UI  
+---
 
-🔍 **More projects on my GitHub repositories!**  
+## 📢 **Let's Connect**  
+<p align="center">
+  <a href="mailto:prajatech355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/Praveenkr398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Praveenkr398"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Web2Code"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
----  
+---
 
-### 🌐 Connect With Me  
-📧 Email: [prajatech355@gmail.com](mailto:prajatech355@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/Praveenkr398](https://www.linkedin.com/in/Praveenkr398)  
-👨‍💻 GitHub: [github.com/Praveenkr398](https://github.com/Praveenkr398)  
-🎥 YouTube: [Web2Code](https://www.youtube.com/@Web2Code)  
-
----  
-
-### 📊 GitHub Stats  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical" width="49%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical" width="49%"/>  
-</div>  
-
----  
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+## 🎵 **Fun Fact**
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="150">
+</p>
+🎶 **I code better when listening to music!**  
+💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
