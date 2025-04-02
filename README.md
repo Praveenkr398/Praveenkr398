@@ -2,9 +2,11 @@
 
 ---<h1 align="center">
   🚀 Hi, I'm Praveen Kumar Pandit 👋
-  <a href="https://ipraveenkr398.netlify.app/projects" target="_blank">
-   <img src="https://img.icons8.com/fluency/48/000000/link.png" alt="Portfolio Link">
-  </a>
+   <img src="https://img.icons8.com/fluency/48/000000/link.png" alt="Portfolio Link"> 
+   
+  <a href="https://ipraveenkr398.netlify.app/projects" target="_blank"> </a>
+   <img/>
+  
 </h1>
 
 <p align="center">
