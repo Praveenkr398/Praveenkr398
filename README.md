@@ -45,3 +45,28 @@
 <p align="center">
 🎶 **I code better when listening to music!**  
 </p>
+
+
+## 📊 **Skill Proficiency**  
+### 🚀 **My Skills in Percentage**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical" width="49%" />
+</p>
+
+### 📈 **Skill Graph**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="49%" />
+</p>
+
+### 📊 **Animated Progress Bars**
+```html
+🔥 HTML: 99%  
+🎨 CSS: 90%  
+⚡ JavaScript: 80%  
+⚛️ React: 76%  
+🟣 Bootstrap: 40%  
+💙 Tailwind CSS: 60%  
+🔗 Git & GitHub: 70%  
+🛠️ VS Code: 80%  
+📱 Responsive Design: 90%
+
