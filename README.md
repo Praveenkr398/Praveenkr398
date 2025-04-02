@@ -1,7 +1,11 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
 
----
-<h1 align="center">🚀 Hi, I'm Praveen Kumar Pandit 👋</h1>
+---<h1 align="center">
+  🚀 Hi, I'm Praveen Kumar Pandit 👋
+  <a href="https://ipraveenkr398.netlify.app/projects" target="_blank">
+    <img src="https://img.shields.io/badge/🔗-Portfolio-blue?style=flat-square" alt="Portfolio Link">
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Designer;Passionate+About+Clean+Code+%26+Design!" />
