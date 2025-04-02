@@ -52,13 +52,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical" width="49%" />
 </p>
-
-### 📈 **Skill Graph**
+## 📊 **Skill Proficiency**
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="49%" />
 </p>
 
-### 📊 **Animated Progress Bars**
+### 🚀 **Skill Progress (in Percentage)**
 ```html
 🔥 HTML: 99%  
 🎨 CSS: 90%  
@@ -69,4 +69,3 @@
 🔗 Git & GitHub: 70%  
 🛠️ VS Code: 80%  
 📱 Responsive Design: 90%
-
