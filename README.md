@@ -5,8 +5,8 @@
 ## 👋 Hey there! I'm Praveen Kumar Pandit  
 ### 📊 GitHub Stats  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical" width="49%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical" width="49%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical" width="39%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical" width="59%"/>  
 </div> 
 
 ### 📊 Skills Overview  
