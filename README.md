@@ -1,86 +1,75 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-## 👋 Hey there! I'm Praveen Kumar Pandit
-
----### 🛠 Tech Stack Overview
-
-![Tech Stack](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveenkr398&theme=radical)
-
----
-
-### 🛠 Tech Stack Overview
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api?username=Praveenkr398&layout=compact&theme=radical)
-
-### 🛠 Tech Stack Overview
+###
 
 <div align="center">
-  <!-- HTML Badge -->
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26&labelColor=red&animation=rotate" width="150" height="50" />
-  
-  <!-- CSS Badge -->
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6&labelColor=blue&animation=fadeIn" width="150" height="50" />
-  
-  <!-- JavaScript Badge -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=yellow&animation=bounce" width="150" height="50" />
-  
-  <!-- React Badge -->
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=61DAFB&labelColor=blue&animation=zoomIn" width="150" height="50" />
-  
-  <!-- Redux Badge -->
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&color=764ABC&labelColor=purple&animation=flipInX" width="150" height="50" />
-  
-  <!-- TailwindCSS Badge -->
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC&labelColor=green&animation=jello" width="150" height="50" />
-  
-  <!-- Bootstrap Badge -->
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3&labelColor=purple&animation=shake" width="150" height="50" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Praveenkr398&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
-### 🛠 Tech Stack Overview
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Praveenkr398/Praveenkr398/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Praveenkr398/Praveenkr398/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Praveenkr398/Praveenkr398/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Praveenkr398/Praveenkr398/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-  <!-- Animated Tech Skills Bar Graph -->
-  <img src="https://github-readme-tech-stack.vercel.app/api?username=Praveenkr398&layout=compact&theme=radical" width="100%"/>
+  <img src="https://profile-counter.glitch.me/Praveenkr398/count.svg?"  />
 </div>
 
----
+###
 
-### 📊 GitHub Stats (Animated)
+<img src="https://raw.githubusercontent.com/Praveenkr398/Praveenkr398/output/snake.svg" alt="Snake animation" />
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
-  <!-- GitHub Stats with animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <!-- Top Languages with animation -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=true" width="48%" />
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
----
-
-### 📂 Featured Projects
-🚀 **[PhotoPiox - Photo Collection Website](https://praveenkr398.github.io/PhotoPioX_PhotoCollection_Website/)**  
-📌 Static image display with hero & gallery sections  
-📌 Categorized gallery with smooth UI  
-📌 Built with HTML, CSS, JavaScript  
-🔗 **[GitHub Repo](https://github.com/Praveenkr398/PhotoPioX_PhotoCollection_Website)**  
-
-🎯 **Random Password Generator**  
-📌 Generates secure random passwords  
-📌 Fully responsive & customizable  
-📌 Built with HTML, CSS, JavaScript  
-
-📝 **Quiz App**  
-📌 Fetches dynamic quizzes from OpenTDB API  
-📌 Customizable quiz categories & difficulty levels  
-📌 JavaScript, API Integration, Responsive UI  
-
----
-
-### 🌐 Connect With Me
-📧 Email: [prajatech355@gmail.com](mailto:prajatech355@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/Praveenkr398](https://www.linkedin.com/in/Praveenkr398)  
-👨‍💻 GitHub: [github.com/Praveenkr398](https://github.com/Praveenkr398)  
-🎥 YouTube: [Web2Code](https://www.youtube.com/@Web2Code)
-
----
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+###
