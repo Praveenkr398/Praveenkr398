@@ -23,7 +23,7 @@
   <!-- GitHub Stats with animation -->
   <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=true" width="40%" />
   <!-- Top Languages with animation -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=true" width="50%" />
 </div>
 
 ---
@@ -42,4 +42,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="150">
 </p>
+<p align="center">
 🎶 **I code better when listening to music!**  
+</p>
