@@ -1,6 +1,7 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
 
 
+<div align="center">
 <h1 align="center">
   👋 Hi, I'm Praveen Kumar Pandit 
   
@@ -53,3 +54,4 @@
 </p>
 </p>
 
+</div>
