@@ -9,32 +9,22 @@
 
 ---
 
-## 🌟 **About Me**
-🎨 **Front-End Developer | UI/UX Enthusiast**  
-⚡ Passionate about **React.js, Redux, and JavaScript**  
-🔍 Exploring **AI-based Web Applications**  
-💻 Building **beautiful & interactive UI**  
-
----
-
 ## 🚀 **Tech Stack Overview**  
 ### 🎨 **Languages & Frameworks**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,github,git,vscode,figma,router" alt="Tech Stack" />
 </p>
 
-### 🔧 **Tools & Libraries**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=webpack,eslint,styledcomponents,postman,firebase,express,nodejs" alt="Tools & Libraries" />
-</p>
-
 ---
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="49%" />
-</p>
+### 📊 GitHub Stats (Animated)
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+  <!-- GitHub Stats with animation -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=true" width="40%" />
+  <!-- Top Languages with animation -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=true" width="55%" />
+</div>
 
 ---
 
@@ -53,4 +43,3 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="150">
 </p>
 🎶 **I code better when listening to music!**  
-💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
