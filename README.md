@@ -1,11 +1,13 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
 
----<h1 align="center">
+---
+
+<h1 align="center">
   🚀 Hi, I'm Praveen Kumar Pandit 👋
+  
+  <a href="https://ipraveenkr398.netlify.app/projects" target="_blank"> 
    <img src="https://img.icons8.com/fluency/48/000000/link.png" alt="Portfolio Link"> 
-   
-  <a href="https://ipraveenkr398.netlify.app/projects" target="_blank"> </a>
-   <img/>
+   <a/>
   
 </h1>
 
@@ -30,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=false" width="32%" />
   <!-- Top Languages with animation -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=false" width="32%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="49%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="32%" />
 
 </div>
 
