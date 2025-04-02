@@ -1,9 +1,6 @@
 ![GitHub Banner](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
 
 
-<p align="center">
----
-
 <h1 align="center">
   👋 Hi, I'm Praveen Kumar Pandit 
   
@@ -25,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,github,git,vscode,figma,router" alt="Tech Stack" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -38,14 +34,12 @@
 
 </div>
 
----
-
 ## 📢 **Let's Connect**  
 <p align="center">
-  <a href="mailto:prajatech355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/Praveenkr398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Praveenkr398"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.youtube.com/@Web2Code"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="mailto:prajatech355@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/Praveenkr398" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Praveenkr398" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Web2Code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
