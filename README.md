@@ -23,14 +23,16 @@
 
 
 ### 📊 GitHub Stats
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
-  <!-- GitHub Stats with animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=false" width="32%" />
-  <!-- Top Languages with animation -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=false" width="32%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" width="32%" />
-
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkr398&show_icons=true&theme=radical&hide_border=false" 
+       style="flex: 1 1 300px; max-width: 400px;" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkr398&layout=compact&theme=radical&hide_border=false" 
+       style="flex: 1 1 300px; max-width: 400px;" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenkr398&theme=radical&hide_border=false" 
+       style="flex: 1 1 300px; max-width: 400px;" />
 </div>
 
 
