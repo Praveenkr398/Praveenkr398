@@ -1,4 +1,4 @@
-![Uploading Black Elegant Modern Personal LinkedIn Banner (1).png…]()
+![Black Elegant Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/881608c6-fbee-41ff-b268-d8b2b7e8c03b)
 
 🚀 About Me
 
@@ -17,3 +17,5 @@ Tools: Git, GitHub, VS Code, Figma
 📧 Email: prajatech355@gmail.com
 🔗 LinkedIn: Praveen Kumar Pandit
 🎥 YouTube: Web2Code
+
+![Uploading Black Elegant Modern Personal LinkedIn Banner (1).png…]()
