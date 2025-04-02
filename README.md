@@ -31,7 +31,7 @@
   <img src="https://github-readme-streak-stats.vercel.app/?user=Praveenkr398&theme=radical&hide_border=false" 
        style="flex: 1 1 300px; max-width: 400px;" />
 </div>
-s & Frameworks**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,github,git,vscode,figma,router" alt="Tech Stack" />
 </p>
