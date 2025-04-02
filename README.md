@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Praveenkr398
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to work with startup project.
-- 📫 How to reach me: by linkedin
-- 😄 thx
+![Uploading Black Elegant Modern Personal LinkedIn Banner (1).png…]()
 
-<!---
-Praveenkr398/Praveenkr398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+
+I'm a passionate Front-End Developer with expertise in HTML, CSS, JavaScript, React, and Redux. I love building interactive and user-friendly web applications. My goal is to create seamless, beautiful, and high-performing digital experiences.
+
+🎯 Currently Exploring: Advanced React & UI/UX Design📌 Looking For: Front-End Developer opportunities💡 Also Interested In: AI Voice-over & Web Development Blogging
+
+🔥 My Skills
+
+Front-End: HTML, CSS, JavaScript, React.js, Redux, Router
+UI/UX: Tailwind CSS, Bootstrap, 
+Tools: Git, GitHub, VS Code, Figma
+
+📢 Connect With Me
+
+📧 Email: prajatech355@gmail.com
+🔗 LinkedIn: Praveen Kumar Pandit
+🎥 YouTube: Web2Code
