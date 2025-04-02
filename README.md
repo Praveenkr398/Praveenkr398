@@ -11,6 +11,8 @@
   
 </h1>
 
+🎨 Languages & Frameworks
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Designer;Passionate+About+Clean+Code+%26+Design!" />
 </p>
