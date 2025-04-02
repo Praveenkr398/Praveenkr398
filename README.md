@@ -2,15 +2,40 @@
 
 ## 👋 Hey there! I'm Praveen Kumar Pandit
 
----
+---### 🛠 Tech Stack Overview
 
-### 🚀 About Me
-💡 Front-End Developer | UI/UX Enthusiast | JavaScript & React.js Lover  
-🌍 Passionate about creating seamless web experiences  
-📚 Currently exploring advanced React, Redux, and Next.js  
-🤖 Experimenting with AI-driven automation tools
+![Tech Stack](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveenkr398&theme=radical)
 
 ---
+
+### 🛠 Tech Stack Overview
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api?username=Praveenkr398&layout=compact&theme=radical)
+
+### 🛠 Tech Stack Overview
+
+<div align="center">
+  <!-- HTML Badge -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26&labelColor=red&animation=rotate" width="150" height="50" />
+  
+  <!-- CSS Badge -->
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6&labelColor=blue&animation=fadeIn" width="150" height="50" />
+  
+  <!-- JavaScript Badge -->
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=yellow&animation=bounce" width="150" height="50" />
+  
+  <!-- React Badge -->
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=61DAFB&labelColor=blue&animation=zoomIn" width="150" height="50" />
+  
+  <!-- Redux Badge -->
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&color=764ABC&labelColor=purple&animation=flipInX" width="150" height="50" />
+  
+  <!-- TailwindCSS Badge -->
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC&labelColor=green&animation=jello" width="150" height="50" />
+  
+  <!-- Bootstrap Badge -->
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3&labelColor=purple&animation=shake" width="150" height="50" />
+</div>
+
 
 ### 🛠 Tech Stack Overview
 <div align="center">
